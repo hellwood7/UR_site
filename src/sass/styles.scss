@@ -1,0 +1,12 @@
+@import 'core/mixins';
+@import 'core/mixins';
+@import 'blocks/main';
+@import 'blocks/other';
+@import 'blocks/carousel';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
